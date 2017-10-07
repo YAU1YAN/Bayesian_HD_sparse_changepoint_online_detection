@@ -6,4 +6,3 @@ Assuming signal being generated in a time series following a particular probabil
 How To Run
 
 Run "multiD_online_changepoint_detection.py", use the high_dimensional_test() to control the nature of the timeseries and the initializing paraments of the detection algorithm. The results, input parameter, and the performace of the detection algorithm would be automatically logged at rolling_results_3d.csv  in a form of a spread sheet
-
